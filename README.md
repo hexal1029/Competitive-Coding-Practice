@@ -116,7 +116,7 @@ Feel free to open an issue or start a discussion!
 
 ## 📞 Connect With Me
 
-- **GitHub**: [@[your-username]](https://github.com/[your-username])
+- **GitHub**: [@hexal1029](https://github.com/[your-username])
 - **LeetCode**: [your-leetcode-profile]
 - **Codeforces**: [your-codeforces-handle]
 
